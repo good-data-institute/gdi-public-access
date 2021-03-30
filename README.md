@@ -1,2 +1,2 @@
-# gdi-public-access
-Public GDI Repo
+# GDI Public Access
+Public GDI Repo 
